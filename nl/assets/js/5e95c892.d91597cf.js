@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_connect_iot_nl=self.webpackChunkdocs_connect_iot_nl||[]).push([[9661],{1892:(e,c,s)=>{s.r(c),s.d(c,{default:()=>l});s(7294);var n=s(6010),r=s(1944),t=s(5281),o=s(8790),u=s(7961),a=s(5893);function l(e){return(0,a.jsx)(r.FG,{className:(0,n.Z)(t.k.wrapper.docsPages),children:(0,a.jsx)(u.Z,{children:(0,o.H)(e.route.routes)})})}}}]);
